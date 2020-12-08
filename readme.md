@@ -1,6 +1,6 @@
 # create-markdown-blog
 
-This is a command-line tool for generating markdown blog, this degit to clone repos with leaving behind a repository.
+This is a command-line tool for generating markdown blog, this degit to clone repos with leaving behind a repository. Read the readme file in the particular template to know the basics of how to use it.
 
 # how it works
 
