@@ -16,6 +16,7 @@ const templates = {
   gridsome:
     "https://github.com/AlexMercedCoder/gridsomemarkdowntemplate.git",
   nuxt: "https://github.com/AlexMercedCoder/nuxtmarkdowntemplate.git",
+  gatsbyportfolio: "https://github.com/AlexMercedCoder/gatasbyportfoliotemplate.git"
 };
 
 //selected template

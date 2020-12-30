@@ -1,6 +1,6 @@
 {
   "name": "create-markdown-blog",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tool for generating bare bones markdown blog templates.",
   "main": "index.js",
   "scripts": {

@@ -20,6 +20,7 @@ or
 - nuxt
 - sapper
 - scully
+- gatsbyportfolio (template for developer portfolios)
 
 #### Default
 
