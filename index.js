@@ -86,6 +86,6 @@ if (selected) {
   );
 } else {
   console.log(
-    "Please select from one of the follow templates: gatsby, next, scully, sapper, nuxt, gridsome"
+    "Please select from one of the follow templates: gatsby, next, scully, sapper, nuxt, gridsome, gatsbyportfolio"
   );
 }
