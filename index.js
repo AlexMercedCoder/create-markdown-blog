@@ -2,7 +2,7 @@
 
 const { exec, spawnSync } = require("child_process");
 
-const [, , template = "next", name = "myblog"] = process.argv;
+const [, , template = "nextjs2022", name = "myblog"] = process.argv;
 
 //Templates
 const templates = {
@@ -16,7 +16,8 @@ const templates = {
   gridsome:
     "https://github.com/AlexMercedCoder/gridsomemarkdowntemplate.git",
   nuxt: "https://github.com/AlexMercedCoder/nuxtmarkdowntemplate.git",
-  gatsbyportfolio: "https://github.com/AlexMercedCoder/gatasbyportfoliotemplate.git"
+  gatsbyportfolio: "https://github.com/AlexMercedCoder/gatasbyportfoliotemplate.git",
+  nextjs2022: "https://github.com/Alex-Merced-Templates/2022-Nextjs-markdown-blog-template.git"
 };
 
 //selected template

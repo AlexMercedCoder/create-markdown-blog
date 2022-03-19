@@ -14,6 +14,7 @@ or
 
 #### Templates
 
+- nextjs2022 [video on template use](https://youtu.be/Q3IYSK-r5Ec) | [template repo](https://github.com/Alex-Merced-Templates/2022-Nextjs-markdown-blog-template)
 - gatsby
 - next
 - gridsome
